@@ -18,7 +18,7 @@ Build an inventory tracking web application for a logistics company. Allow delet
 
 ## Demo
 
-- Replit (https://replit.com/@prerak131/productionEngineerChallenge-#.replit)
+- Replit (https://replit.com/@prerak131/productionEngineerChallenge-?v=1)
 
 ## Deployment
 
